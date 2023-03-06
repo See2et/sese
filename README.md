@@ -1,3 +1,3 @@
 # sese
 
-It is expalanation for Mr.sese.
+It is explanation for Mr.sese.
